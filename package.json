@@ -1,0 +1,14 @@
+{
+  "name": "node-typescript-starter",
+  "version": "1.0.0",
+  "description": "Simple express node server with typescript example code",
+  "main": "index.js",
+  "scripts": {
+    "build-ts": "tsc"
+  },
+  "author": "Ram",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
